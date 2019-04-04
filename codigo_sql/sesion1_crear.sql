@@ -1,7 +1,7 @@
 CREATE TABLE Equipo (
     Nom_equip           VARCHAR(50) CONSTRAINT PK_Equipo PRIMARY KEY,
     Nom_oficial         VARCHAR(50) CONSTRAINT NN_nomOf NOT NULL,
-    Nom_historicNo      VARCHAR(50),
+    Nom_historico       VARCHAR(50),
     Otros_nombres       VARCHAR(50),
     Ciudad              VARCHAR(50) CONSTRAINT NN_city NOT NULL,
     Fundacion           NUMBER(4)   CONSTRAINT NN_fund NOT NULL
