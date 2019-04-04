@@ -31,12 +31,10 @@ CREATE TABLE Tener (
 
 CREATE TABLE Jornada (
     Num_jornada         NUMBER(2),
-    Num_temporada       NUMBER(4), /*No estoy seguro*/
+    Num_temporada       VARCHAR(9), /*No estoy seguro*/
     Nom_liga            VARCHAR(20),
-    CONSTRAINT PK_jornada   PRIMARY KEY (Num_jornada,Num_temporada,Nom_liga),
-    CONSTRAINT FK_JorTemp   FOREIGN KEY (Num_temporada) REFERENCES Temporada(Num_temporada)
-                                                    ON DELETE CASCADE,
-    CONSTRAINT FK_JorLig    FOREIGN KEY (Nom_liga)      REFERENCES Liga(Nom_liga)                                                   
+    CONSTRAINT PK_jornada      PRIMARY KEY (Num_jornada,Num_temporada,Nom_liga),
+    CONSTRAINT FK_JorTempLig   FOREIGN KEY (Num_temporada,Nom_liga) REFERENCES Temporada(Num_temporada,Nom_liga)
                                                     ON DELETE CASCADE
 );          
 
@@ -49,5 +47,32 @@ CREATE TABLE Temporada (
 );
 
 CREATE TABLE Participar (
-    /*Tengo dudas*/
+    Nom_equip           VARCHAR(50),
+    Num_jornada         NUMBER(2),
+    Num_temporada       VARCHAR(9),
+    Nom_liga            VARCHAR(20),
+    Europa              NUMBER(1) CONSTRAINT NN_europ   NOT NULL,
+    Puntos              NUMBER(3) CONSTRAINT NN_puntos  NOT NULL,
+    Puesto              NUMBER(2) CONSTRAINT NN_puesto  NOT NULL,
+    asc_desc            NUMBER(1) CONSTRAINT NN_asc_des NOT NULL,
+    CONSTRAINT PK_participar    PRIMARY KEY (Nom_equip,Num_jornada,Num_temporada,Nom_liga),
+    CONSTRAINT FK_partEquip     FOREIGN KEY (Nom_equip)  REFERENCES Equipo(Nom_equip)
+                                                    ON DELETE CASCADE,
+    CONSTRAINT FK_particJor     FOREIGN KEY (Num_jornada,Num_temporada,Nom_liga) REFERENCES Jornada(Num_jornada,Num_temporada,Nom_liga)
+                                                    ON DELETE CASCADE
+);
+
+CREATE TABLE Partido (
+    Nom_eq_loc          VARCHAR(50),
+    Nom_eq_vis          VARCHAR(50),
+    Num_jornada         NUMBER(2),
+    Num_temporada       VARCHAR(9),
+    Nom_liga            VARCHAR(20),
+    Gol_local           NUMBER(2) CONSTRAINT NN_local NOT NULL,
+    Gol_visitante       NUMBER(2) CONSTRAINT NN_visit NOT NULL,
+    CONSTRAINT PK_partido       PRIMARY KEY (Nom_eq_loc,Nom_eq_vis,Num_jornada,Num_temporada,Nom_liga),
+    CONSTRAINT FK_nomEqPar      FOREIGN KEY (Nom_eq_loc,Nom_eq_vis) REFERENCES Equipo(Nom_equip)
+                                                    ON DELETE CASCADE,  
+    CONSTRAINT FK_jorPar        FOREIGN KEY (Num_jornada,Num_temporada,Nom_liga) REFERENCES Jornada(Num_jornada,Num_temporada,Nom_liga)
+                                                    ON DELETE CASCADE
 );
