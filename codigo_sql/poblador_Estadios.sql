@@ -56,7 +56,6 @@ INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Butar
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('El Plantio','Castilla y Leon','1964','12200');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('A Malata','Galicia','1993','12043');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Pasaron','Galicia','1956','12000');
-INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Municipal','Andalucia','1969','12000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Nova Creu Alta','Cataluna','1967','11981');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Francisco de la Hera','Extremadura','1951','11580');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Olimpic de Terrassa','Cataluna','1960','11500');
@@ -89,7 +88,6 @@ INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Lases
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Angel Carro','Galicia','1974','7840');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Ruta de la Plata','Castilla y Leon','2002','7813');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('El Alcoraz','Aragon','1972','7638');
-INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Polideportivo Municipal','Andalucia','1983','7500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Antonio Dominguez Alfonso','Canarias','1992','7500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Nuevo Mirador','Andalucia','1999','7200');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Ciudad Deportiva de Lanzarote','Canarias','1968','7000');
@@ -122,6 +120,7 @@ INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('La Ar
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Nuevo Roman Suarez Puerta','Principado de Asturias','1999','5500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Nuestra Senora de la Caridad','Castilla-La Mancha','1958','5500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Chamorro Martinez','Andalucia','1970','5500');
+INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Polideportivo Municipal','Castilla-La Mancha','1976','5500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Ciudad Deportiva de Plasencia','Extremadura','1982','5500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Los Corrales','Cantabria','2013','5500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Salto del Caballo','Castilla-La Mancha','1973','5300');
