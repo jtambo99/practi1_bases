@@ -1,17 +1,15 @@
-/*Eliminación de tablas*/
+DROP TABLE Partido;
 
-DROP TABLE Equipo;
-
-DROP TABLE Estadio;
-
-DROP TABLE Liga;
-
-DROP TABLE Tener;
+DROP TABLE Participar;
 
 DROP TABLE Jornada;
 
 DROP TABLE Temporada;
 
-DROP TABLE Participar;
+DROP TABLE Tener;
 
-DROP TABLE Partido;
+DROP TABLE Liga;
+
+DROP TABLE Estadio;
+
+DROP TABLE Equipo;
