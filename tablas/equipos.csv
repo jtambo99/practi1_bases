@@ -1,251 +1,250 @@
-Tabla 1;;;;;
-Club;Ciudad;Fundacion;Nombre corto;;
- Real Club Recreativo de Huelva;Huelva;1889;Rec. Huelva;;
- Sevilla Futbol Club;Sevilla;1890;Sevilla;;
- Athletic Club;Bilbao;1898;Ath. Bilbao;;
- Futbol Club Barcelona;Barcelona;1899;Barcelona;;
- Real Club Deportivo Espanol;Barcelona;1900;Espanyol;;
- Real Madrid Club de Futbol;Madrid;1900;Real Madrid;;
- Centre d Esports Sabadell Futbol Club;Sabadell;1901;Sabadell;;
- Club de Futbol Badalona;Badalona;1903;Badalona;;
- Club Atletico de Madrid;Madrid;1903;At. Madrid;;
- Real Aviles Club de Futbol;Aviles;1903;Aviles;;
- Futbol Club Vilafranca;Vilafranca del Penedès;1904;Villafranca;;
- Real Sporting de Gijon;Gijon;1905;Sporting Gijon;;
- Sociedad Deportiva Beasain;Beasain;1905;Besain;;
- Santfeliuenc Futbol Club;Sant Feliu de Llobregat;1905;Santfeliuenc;;
- Real Club Deportivo Carabanchel;Madrid;1906;Carabanchel;;
- Real Club Deportivo de La Coruna;La Coruna;1906;Dptivo. Coruna;;
- Club Esportiu Europa;Barcelona;1907;Europa;;
- Real Betis Balompie;Sevilla;1907;Betis;;
- Gimnastica de Torrelavega;Torrelavega;1907;Torrelavega;;
- Real Murcia Club de Futbol;Murcia;1908;Murcia;;
- Real Sociedad de Futbol;San Sebastian;1909;Real Sociedad;;
- Club Portugalete;Portugalete;1909;Portugalete;;
- Levante Union Deportiva;Valencia;1909;Levante;;
- Club de Futbol Reus Deportiu;Reus;1909;Reus;;
- Arenas Club de Guecho;Guecho;1909;Getxo;;
- Algeciras Club de Futbol;Algeciras;1909;Algeciras;;
- Cadiz Club de Futbol;Cadiz;1910;Cadiz;;
- Luarca Club de Futbol;Luarca;1912;Luarca;;
- Real Titanico;Pola de Laviana;1912;Titanico;;
- Real Balompedica Linense;La Linea;1912;Linense;;
- Union Deportiva Icodense;Tenerife;1912;Icodense;;
- Real Club Deportivo Gara;Garachico;1912;Garachico;;
- Club Deportivo Tenerife;Santa Cruz de Tenerife;1912;Tenerife;;
- Real Racing Club de Santander;Santander;1913;Rac. Santander;;
- Club Deportivo Basconia;Basauri;1913;Basconia;;
- Sociedad Deportiva Deusto;Deusto;1913;Deusto;;
- Club Haro Deportivo;Haro;1914;Haro;;
-" Real Club Deportivo de La Coruna ""B""";La Coruna;1914;Dptivo. Coruna B;;
- Club Gimnàstic de Tarragona;Tarragona;1914;Gimn. Tarragona;;
- Hercules de Alicante Club de Futbol;Alicante;1914;Hercules;;
- Club Deportivo Cayon;Santa Maria de Cayon;1915;Cayon;;
- Real Union de Tenerife Club de Futbol;Tenerife;1915;R.U. Tenerife;;
- Real Union Club;Irun;1915;Real Union;;
- Sociedad Deportiva Erandio Club;Erandio;1915;Erandio;;
- Club Siero;Pola de Siero;1916;Siero;;
- Club Deportivo Lealtad;Villaviciosa;1916;Lealtad;;
- Real Club Deportivo Mallorca;Palma de Mallorca;1916;Mallorca;;
- Club Deportivo Contestano;Cocentaina;1917;Contestano;;
- Pumarin Club de Futbol;Oviedo;1917;Pumarin;;
- Deportiva Pilonesa;Infiesto;1917;Pilonesa;;
- Barakaldo Club de Futbol;Baracaldo;1917;Barakaldo;;
- Club Deportivo Elgoibar;Elgoibar;1917;Elgoibar;;
- Caudal Deportivo;Mieres;1918;Caudal;;
- Santutxu Futbol Club;Santutxu;1918;Santutxu;;
- Sociedad Cultural Deportiva de Durango;Durango;1919;Durango;;
- Sporting Club de Lutxana;Baracaldo;1919;Lutxana;;
- Club Deportivo Acero;Puerto de Sagunto;1919;Acero;;
- Cartagena Futbol Club;Cartagena;1919;Cartagena F.C.;;
- Unio Esportiva Figueres;Figueras;1919;Figueres;;
- Club Polideportivo Cacereno;Caceres;1919;Cacereno;;
- Valencia Club de Futbol;Valencia;1919;Valencia;;
- Racing Club de Ferrol;Ferrol;1919;Ferrol;;
- Club Deportivo Atletico Baleares;Palma de Mallorca;1920;At. Baleares;;
- Club Futbol Capellades;Capellades;1920;Capellades;;
- Club Atletico Osasuna;Pamplona;1920;Osasuna;;
- Club Deportivo Eldense;Elda;1921;Eldense;;
- Deportivo Alaves;Vitoria;1921;Alaves;;
- Club Deportivo Castellon;Castellon de la Plana;1919;Castellon;;
- Sociedad Deportiva Ponferradina;Ponferrada;1921;Ponferradina;;
- Elche Club de Futbol;Elche;1922;Elche;;
- Sociedad Deportiva Tenisca;Santa Cruz de La Palma;1922;Tenisca;;
- Club Deportivo Mensajero;Santa Cruz de La Palma;1922;Mensajero;;
- Tolosa Club de Futbol;Tolosa;1922;Tolosa;;
- Velez Club de Futbol;Velez-Malaga;1922;Velez;;
- Sociedad Deportiva Gernika Club;Gernika;1922;Gernika;;
- Astur Club de Futbol;Oviedo;1923;Astur;;
- Cultural y Deportiva Leonesa;Leon;1923;Cult. Leonesa;;
- Real Club Celta de Vigo;Vigo;1923;Celta;;
- Rayo Vallecano de Madrid;Madrid;1924;Rayo Vallecano;;
- Club Deportivo Izarra;Estella;1924;Izarra;;
- Unio Esportiva Sant Andreu;Barcelona;1925;Sant Andreu;;
- Sociedad Deportiva Amorebieta;Vizcaya;1925;Amorebieta;;
- Real Oviedo;Oviedo;1926;Oviedo;;
- Club Deportivo Mirandes;Miranda de Ebro;1927;Mirandes;;
- Real Valladolid Club de Futbol;Valladolid;1928;Valladolid;;
- Club Deportivo Leganes;Leganes;1928;Leganes;;
- Club Deportivo Alcoyano;Alcoy;1928;Alcoyano;;
- Carrion Balompie;Carrion de los Cespedes;1928;Carrion ;;
- Racing Club Portuense;El Puerto de Santa Maria;1928;Portuense;;
- Calavera Club de Futbol;Sevilla;1928;Calavera;;
- Real Jaen Club de Futbol;Jaen;1929;Jaen;;
- Real Oviedo Vetusta;Oviedo;1930;Oviedo Vetusta;;
- Girona Futbol Club;Gerona;1930;Girona;;
- Real Madrid Castilla Club de Futbol;Madrid;1930;Real Madrid B;;
- Granada Club de Futbol;Granada;1931;Granada;;
- Puerto Real Club de Futbol;Puerto Real;1931;Puerto Real;;
- Club Marino de Luanco;Luanco;1931;Luanco;;
- Real Zaragoza;Zaragoza;1932;Zaragoza;;
- Club Deportivo Marino;Arona;1933;Marino;;
- Albacete Balompie;Albacete;1940;Albacete;;
- Pontevedra Club de Futbol;Pontevedra;1941;Pontevedra;;
- Sociedad Deportiva Eibar;eibar;1943;eibar;;
- Valencia Club de Futbol Mestalla;Paterna;1944;Valencia B;;
- Club Deportivo Numancia de Soria;Soria;1945;Numancia;;
- Villarreal Club de Futbol;Villarreal;1944;Villarreal;;
- Xerez Club Deportivo;Jerez de la Frontera;1947;Xerez;;
- Club Deportivo Guadalajara;Guadalajara;1947;Guadalajara;;
- Club Recreativo Granada;Granada;1947;Granada B;;
- Club Deportivo Puertollano;Puertollano;1948;Puertollano;;
- Malaga Club de Futbol;Malaga;1948;Malaga (C.D.);;
- Union Deportiva Las Palmas;Las Palmas;1949;Las Palmas;;
- Sevilla Atletico Club;Sevilla;1950;Sevilla B;;
- Club Deportivo Lugo;Lugo;1953;Lugo;;
- Cordoba Club de Futbol;Cordoba;1954;Cordoba;;
- Palamos Club de Futbol;Palamos;1954;Palamos;;
- Club Atletico de Ceuta;Ceuta;1956;Ceuta;;
- Sociedad Deportiva Huesca;Huesca;1960;Huesca;;
- Union Popular de Langreo;Langreo;1961;Langreo;;
-" Club Atletico de Madrid ""B""";Majadahonda;1963;At. Madrid B;;
- Bilbao Athletic;Lezama;1964;Ath. Bilbao B;;
- Union Deportiva Logrones;Logrono;1967;Logrones (U.D.);;
-" Futbol Club Barcelona ""B""";Barcelona;1970;Barcelona B;;
- Agrupacion Deportiva Alcorcon;Alcorcon;1971;Alcorcon;;
- Montilla Club de Futbol;Montilla;1973;Montilla;;
- Club de Futbol Rayo Majadahonda;Majadahonda;1976;Rayo Majadahonda;;
- Alboraya Union Deportiva;Alboraya;1978;Alboraya;;
- Getafe Club de Futbol;Getafe;1983;Getafe;;
-" Getafe Club de Futbol ""B""";Getafe;1983;Getafe B;;
- Real Burgos Club de Futbol;Burgos;1983;Burgos (Real);;
- Union Deportiva Almeria;Almeria;1989;Almeria;;
- Burgos Club de Futbol;Burgos;1994;Burgos (C.F.);;
- Futbol Club Cartagena;Cartagena;1995;Cartagena;;
- Sestao River Club;Sestao;1996;Sestao River;;
-" Agrupacion Deportiva Alcorcon ""B""";Alcorcon;1998;Alcorcon B;;
- UCAM Murcia Club de Futbol;Murcia;1999;UCAM Murcia;;
- Sociedad Deportiva Compostela;Santiago de Compostela;2004;Compos;;
- Extremadura Union Deportiva;Almendralejo;2007;Extremadura (U.D.);;
- Sociedad Deportiva Logrones;Logrono;2009;Logrones (S.D.);;
- Tarrasa Olimpica 2010;Tarrasa;2009;Tarrasa Olimpica;;
- Club Lleida Esportiu;Lerida;2011;Lleida Espiritu;;
- Club Deportivo Badajoz;Badajoz;2012;Badajoz (C.D.);;
- Xerez Deportivo Futbol Club;Jerez de la Frontera;2013;Xerez (F.C.);;
- Unionistas de Salamanca Club de Futbol;Salamanca;2013;Unionistas;;
- Merida Asociacion Deportiva;Merida;2013;Merida (A.D.);;
- Exiles Foot-Ball Club;Vigo;1876;Exiles;;
- Rio Tinto Foot-Ball Clubn 6;Huelva;1878;Rio Tinto;;
- Cricket y Foot-Ball Club;Madrid;1879; Cricket y Foot-Ball Club;;
- Malaga English Clubn 7;Malaga;1890; Malaga English Clubn 7;;
- Athleta Club de Astilleros del Nervion;Bilbao;1891; Athleta Club de Astilleros del Nervion;;
- Foot-Ball Club Barcelona;Barcelona;1893; Foot-Ball Club Barcelona;;
- Gran Canary Foot-Ball Club;Las Palmas;1894; Gran Canary Foot-Ball Club;;
- Las Palmas Foot-Ball Club;Puerto de Las Palmas;1894; Las Palmas Foot-Ball Club;;
- Asociacion de Football de Torello;Barcelona;1894; Asociacion de Football de Torello;;
- Veloz Sport Balear;Palma de Mallorca;1896; Veloz Sport Balear;;
- Sociedad de Juegos al Aire Libre;Madrid;1897; Sociedad de Juegos al Aire Libre;;
- New Foot-Ball Club;Madrid;1897; New Foot-Ball Club;;
- Association Sportive Amicale;Madrid;1897; Association Sportive Amicale;;
- Palamos Club de Futbol;Palamos;1898; Palamos Club de Futbol;;
- Català Sport Club;Barcelona;1899; Català Sport Club;;
- Hispania Athletic Club;Barcelona;1900; Hispania Athletic Club;;
- Bilbao Foot-Ball Club;Bilbao;1900; Bilbao Foot-Ball Club;;
- Club Espanol de Madrid *;Madrid;1901; Club Espanol de Madrid *;;
- Moncloa Foot-Ball Club;Madrid;1902; Moncloa Foot-Ball Club;;
- Retiro Foot-Ball Club;Madrid;1902; Retiro Foot-Ball Club;;
- Moderno Foot-Ball Club;Madrid;1902; Moderno Foot-Ball Club;;
- Gijon Sport Club;Gijon;1902; Gijon Sport Club;;
- Hispania Foot-Ball Club;Madrid;1902; Hispania Foot-Ball Club;;
- Victoria Foot-Ball Club;Madrid;1902; Victoria Foot-Ball Club;;
- Union Vizcaina;Bilbao;1902; Union Vizcaina;;
- Universidad de Deusto Foot-Ball Club;Bilbao;1902; Universidad de Deusto Foot-Ball Club;;
- Iberia Foot-Ball Club;Madrid;1903; Iberia Foot-Ball Club;;
- Sport Foot-Ball Club;Madrid;1903; Sport Foot-Ball Club;;
- Internacional Foot-Ball Club;Madrid;1903; Internacional Foot-Ball Club;;
- Boston Foot-Ball Club;Madrid;1903; Boston Foot-Ball Club;;
- Nacional Foot-Ball Club;Madrid;1903; Nacional Foot-Ball Club;;
- Vizcaya Foot-Ball Clubn 8;Madrid;1903; Vizcaya Foot-Ball Clubn 8;;
- Hispania Foot-Ball Club;Bilbao;1903; Hispania Foot-Ball Club;;
- Malaga Foot-Ball Club;Malaga;1903; Malaga Foot-Ball Club;;
- Club Foot-Ball Segoviano;Segovia;1903; Club Foot-Ball Segoviano;;
- Asociacion Asturiana de Foot-Ball;Madrid;1903; Asociacion Asturiana de Foot-Ball;;
- Zaragoza Foot-Ball Club;Zaragoza;1903; Zaragoza Foot-Ball Club;;
- Oviedo Foot-Ball Club;Oviedo;1903; Oviedo Foot-Ball Club;;
- Vigo Foot-Ball Club;Vigo;1903; Vigo Foot-Ball Club;;
- Real Club Coruna;La Coruna;1904; Real Club Coruna;;
- Juventud Deportiva Gijonesa;Gijon;1904; Juventud Deportiva Gijonesa;;
- Sport Club Avilesino;Aviles;1904; Sport Club Avilesino;;
- Sporting Club Lucentino;Alicante;1904; Sporting Club Lucentino;;
- San Sebastian Recreation Club;San Sebastian;1904; San Sebastian Recreation Club;;
- Club Gimnastico;Las Palmas;1904; Club Gimnastico;;
- Club Deportivo Gran Canaria;Las Palmas;1904; Club Deportivo Gran Canaria;;
- Club Deportivo Badajoz;Badajoz;1905;Badajoz;;
- New Sporting Club;Madrid;1905; New Sporting Club;;
- Real Club Fortuna de Vigo;Vigo;1905; Real Club Fortuna de Vigo;;
- Foot-Ball Club Valencia;Valencia;1905; Foot-Ball Club Valencia;;
- Iris Foot-Ball Club;Madrid;1906; Iris Foot-Ball Club;;
- Club Sportivo Internacional;Madrid;1906; Club Sportivo Internacional;;
- Espanol Foot-Ball Club;Madrid;1906; Espanol Foot-Ball Club ;;
- Tarrasa Futbol Club;Tarrasa;1906;Terrasa;;
- Real Sociedad Gimnastica Espanola;Madrid;1907; Real Sociedad Gimnastica Espanola;;
- Xerez Futbol Club;Jerez;1907; Xerez Futbol Club;;
- San Sebastian Foot-Ball Club;San Sebastian;1908; San Sebastian Foot-Ball Club;;
- Alicante Recreation Club;Alicante;1908; Alicante Recreation Club;;
- Gimnastico Foot-Ball Club;Valencia;1909; Gimnastico Foot-Ball Club;;
- Foot-Ball Club Cabanal;Valencia;1907; Foot-Ball Club Cabanal;;
- Espanol Foot-Ball Club;Cadiz;1911; Espanol Foot-Ball Club;;
- Sporting Club;Vigo;1911; Sporting Club;;
- Real Vigo Sporting Club;Vigo;1911; Real Vigo Sporting Club;;
- Foot-Ball Club Malagueno;Malaga;1912; Foot-Ball Club Malagueno;;
- Club Deportivo Norte;Tenerife;1912; Club Deportivo Norte;;
- Union Sporting Club;Madrid;1913; Union Sporting Club;;
- Club Nuevo Fomento Oriental;Las Palmas;1913; Club Nuevo Fomento Oriental;;
- Racing Club de Madrid;Madrid;1914; Racing Club de Madrid;;
- Sestao Sport Club;Sestao;1916;Sestao;;
- Iberia Sport Club;Zaragoza;1916;Iberia;;
- Alicante Club de Futbol;Alicante;1918;Alicante;;
- Agrupacion Deportiva Ferroviaria;Madrid;1918;A.D. Ferroviaria;;
- Club Polideportivo Merida;Merida;1921;Merida;;
- Club Deportivo Logrono;Logrono;1922;Logrono;;
- Burgos Club de Futbol;Burgos;1922;Burgos;;
- Imperio Club de Futbol;Madrid;1923;Imperio;;
- Union Deportiva Salamanca;Salamanca;1923;Salamanca;;
- Club de Futbol Villarreal de Educacion y Descanso;Villarreal;1923;Villarreal E y D;;
- Club Deportivo Nacional de Madrid;Madrid;1924;Nacional de Madrid;;
- Club de Futbol Extremadura;Almendralejo;1924;Extremadura;;
- Getafe Foot-Ball Club;Getafe;1924; Getafe Foot-Ball Club;;
- Zaragoza Club Deportivo;Zaragoza;1925; Zaragoza Club Deportivo;;
- Compostela Club de Futbol;Santiago;1928; Compostela Club de Futbol;;
- Real Club Deportivo Cordoba;Cordoba;1929; Real Club Deportivo Cordoba;;
- Castilla Foot-Ball Club;Madrid;1931; Castilla Foot-Ball Club;;
- Club Deportivo Malaga;Malaga;1933; Club Deportivo Malaga;;
- Club Deportivo Condal;Barcelona;1934; Club Deportivo Condal;;
- Unio Esportiva Lleida;Lerida;1939;Lleida;;
- Club Deportivo Logrones;Logrono;1940;Logrones;;
- Club Deportivo Juvenil;La Coruna;1940; Club Deportivo Juvenil;;
- Eibar Foot-Ball Club;eibar;1940; Eibar Foot-Ball Club;;
- Club Getafe Deportivo;Getafe;1946; Club Getafe Deportivo;;
- Club Deportivo Ourense;Orense;1952;Ourense;;
-" Real Madrid Club de Futbol ""C""";Madrid;1952;Madrid C;;
- Sociedad Deportiva Compostela;Santiago;1962;Compostela;;
-" Futbol Club Barcelona ""C""";Barcelona;1967;Barcelona C;;
- Club Polideportivo Ejido;El Ejido;1969;Ejido;;
- Agrupacion Deportiva Almeria;Almeria;1971;Almeria (A.D.);;
- Merida Union Deportiva;Merida;1990;Merida;;
- Lorca Atletico Club de Futbol;Lorca;1996;Lorca;;
- Granada 74 Club de Futbol;Motril;1999;Granada 74;;
- Real Stadium Club Ovetense;Oviedo;1914; Real Stadium Club Ovetense;;
- Real Club Deportivo Oviedo;Oviedo;1919; Real Club Deportivo Oviedo;;
- Club Deportivo Espanol;Valladolid;1924; Club Deportivo Espanol;;
- Real Union Deportiva;Valladolid;1924; Real Union Deportiva;;
+Club;Ciudad;Fundacion;Nombre corto
+ Real Club Recreativo de Huelva;Huelva;1889;Rec. Huelva
+ Sevilla Futbol Club;Sevilla;1890;Sevilla
+ Athletic Club;Bilbao;1898;Ath. Bilbao
+ Futbol Club Barcelona;Barcelona;1899;Barcelona
+ Real Club Deportivo Espanol;Barcelona;1900;Espanyol
+ Real Madrid Club de Futbol;Madrid;1900;Real Madrid
+ Centre d Esports Sabadell Futbol Club;Sabadell;1901;Sabadell
+ Club de Futbol Badalona;Badalona;1903;Badalona
+ Club Atletico de Madrid;Madrid;1903;At. Madrid
+ Real Aviles Club de Futbol;Aviles;1903;Aviles
+ Futbol Club Vilafranca;Vilafranca del Penedès;1904;Villafranca
+ Real Sporting de Gijon;Gijon;1905;Sporting Gijon
+ Sociedad Deportiva Beasain;Beasain;1905;Besain
+ Santfeliuenc Futbol Club;Sant Feliu de Llobregat;1905;Santfeliuenc
+ Real Club Deportivo Carabanchel;Madrid;1906;Carabanchel
+ Real Club Deportivo de La Coruna;La Coruna;1906;Dptivo. Coruna
+ Club Esportiu Europa;Barcelona;1907;Europa
+ Real Betis Balompie;Sevilla;1907;Betis
+ Gimnastica de Torrelavega;Torrelavega;1907;Torrelavega
+ Real Murcia Club de Futbol;Murcia;1908;Murcia
+ Real Sociedad de Futbol;San Sebastian;1909;Real Sociedad
+ Club Portugalete;Portugalete;1909;Portugalete
+ Levante Union Deportiva;Valencia;1909;Levante
+ Club de Futbol Reus Deportiu;Reus;1909;Reus
+ Arenas Club de Guecho;Guecho;1909;Getxo
+ Algeciras Club de Futbol;Algeciras;1909;Algeciras
+ Cadiz Club de Futbol;Cadiz;1910;Cadiz
+ Luarca Club de Futbol;Luarca;1912;Luarca
+ Real Titanico;Pola de Laviana;1912;Titanico
+ Real Balompedica Linense;La Linea;1912;Linense
+ Union Deportiva Icodense;Tenerife;1912;Icodense
+ Real Club Deportivo Gara;Garachico;1912;Garachico
+ Club Deportivo Tenerife;Santa Cruz de Tenerife;1912;Tenerife
+ Real Racing Club de Santander;Santander;1913;Rac. Santander
+ Club Deportivo Basconia;Basauri;1913;Basconia
+ Sociedad Deportiva Deusto;Deusto;1913;Deusto
+ Club Haro Deportivo;Haro;1914;Haro
+" Real Club Deportivo de La Coruna ""B""";La Coruna;1914;Dptivo. Coruna B
+ Club Gimnàstic de Tarragona;Tarragona;1914;Gimn. Tarragona
+ Hercules de Alicante Club de Futbol;Alicante;1914;Hercules
+ Club Deportivo Cayon;Santa Maria de Cayon;1915;Cayon
+ Real Union de Tenerife Club de Futbol;Tenerife;1915;R.U. Tenerife
+ Real Union Club;Irun;1915;Real Union
+ Sociedad Deportiva Erandio Club;Erandio;1915;Erandio
+ Club Siero;Pola de Siero;1916;Siero
+ Club Deportivo Lealtad;Villaviciosa;1916;Lealtad
+ Real Club Deportivo Mallorca;Palma de Mallorca;1916;Mallorca
+ Club Deportivo Contestano;Cocentaina;1917;Contestano
+ Pumarin Club de Futbol;Oviedo;1917;Pumarin
+ Deportiva Pilonesa;Infiesto;1917;Pilonesa
+ Barakaldo Club de Futbol;Baracaldo;1917;Barakaldo
+ Club Deportivo Elgoibar;Elgoibar;1917;Elgoibar
+ Caudal Deportivo;Mieres;1918;Caudal
+ Santutxu Futbol Club;Santutxu;1918;Santutxu
+ Sociedad Cultural Deportiva de Durango;Durango;1919;Durango
+ Sporting Club de Lutxana;Baracaldo;1919;Lutxana
+ Club Deportivo Acero;Puerto de Sagunto;1919;Acero
+ Cartagena Futbol Club;Cartagena;1919;Cartagena F.C.
+ Unio Esportiva Figueres;Figueras;1919;Figueres
+ Club Polideportivo Cacereno;Caceres;1919;Cacereno
+ Valencia Club de Futbol;Valencia;1919;Valencia
+ Racing Club de Ferrol;Ferrol;1919;Ferrol
+ Club Deportivo Atletico Baleares;Palma de Mallorca;1920;At. Baleares
+ Club Futbol Capellades;Capellades;1920;Capellades
+ Club Atletico Osasuna;Pamplona;1920;Osasuna
+ Club Deportivo Eldense;Elda;1921;Eldense
+ Deportivo Alaves;Vitoria;1921;Alaves
+ Club Deportivo Castellon;Castellon de la Plana;1919;Castellon
+ Sociedad Deportiva Ponferradina;Ponferrada;1921;Ponferradina
+ Elche Club de Futbol;Elche;1922;Elche
+ Sociedad Deportiva Tenisca;Santa Cruz de La Palma;1922;Tenisca
+ Club Deportivo Mensajero;Santa Cruz de La Palma;1922;Mensajero
+ Tolosa Club de Futbol;Tolosa;1922;Tolosa
+ Velez Club de Futbol;Velez-Malaga;1922;Velez
+ Sociedad Deportiva Gernika Club;Gernika;1922;Gernika
+ Astur Club de Futbol;Oviedo;1923;Astur
+ Cultural y Deportiva Leonesa;Leon;1923;Cult. Leonesa
+ Real Club Celta de Vigo;Vigo;1923;Celta
+ Rayo Vallecano de Madrid;Madrid;1924;Rayo Vallecano
+ Club Deportivo Izarra;Estella;1924;Izarra
+ Unio Esportiva Sant Andreu;Barcelona;1925;Sant Andreu
+ Sociedad Deportiva Amorebieta;Vizcaya;1925;Amorebieta
+ Real Oviedo;Oviedo;1926;Oviedo
+ Club Deportivo Mirandes;Miranda de Ebro;1927;Mirandes
+ Real Valladolid Club de Futbol;Valladolid;1928;Valladolid
+ Club Deportivo Leganes;Leganes;1928;Leganes
+ Club Deportivo Alcoyano;Alcoy;1928;Alcoyano
+ Carrion Balompie;Carrion de los Cespedes;1928;Carrion 
+ Racing Club Portuense;El Puerto de Santa Maria;1928;Portuense
+ Calavera Club de Futbol;Sevilla;1928;Calavera
+ Real Jaen Club de Futbol;Jaen;1929;Jaen
+ Real Oviedo Vetusta;Oviedo;1930;Oviedo Vetusta
+ Girona Futbol Club;Gerona;1930;Girona
+ Real Madrid Castilla Club de Futbol;Madrid;1930;Real Madrid B
+ Granada Club de Futbol;Granada;1931;Granada
+ Puerto Real Club de Futbol;Puerto Real;1931;Puerto Real
+ Club Marino de Luanco;Luanco;1931;Luanco
+ Real Zaragoza;Zaragoza;1932;Zaragoza
+ Club Deportivo Marino;Arona;1933;Marino
+ Albacete Balompie;Albacete;1940;Albacete
+ Pontevedra Club de Futbol;Pontevedra;1941;Pontevedra
+ Sociedad Deportiva Eibar;eibar;1943;eibar
+ Valencia Club de Futbol Mestalla;Paterna;1944;Valencia B
+ Club Deportivo Numancia de Soria;Soria;1945;Numancia
+ Villarreal Club de Futbol;Villarreal;1944;Villarreal
+ Xerez Club Deportivo;Jerez de la Frontera;1947;Xerez
+ Club Deportivo Guadalajara;Guadalajara;1947;Guadalajara
+ Club Recreativo Granada;Granada;1947;Granada B
+ Club Deportivo Puertollano;Puertollano;1948;Puertollano
+ Malaga Club de Futbol;Malaga;1948;Malaga (C.D.)
+ Union Deportiva Las Palmas;Las Palmas;1949;Las Palmas
+ Sevilla Atletico Club;Sevilla;1950;Sevilla B
+ Club Deportivo Lugo;Lugo;1953;Lugo
+ Cordoba Club de Futbol;Cordoba;1954;Cordoba
+ Palamos Club de Futbol;Palamos;1954;Palamos
+ Club Atletico de Ceuta;Ceuta;1956;Ceuta
+ Sociedad Deportiva Huesca;Huesca;1960;Huesca
+ Union Popular de Langreo;Langreo;1961;Langreo
+" Club Atletico de Madrid ""B""";Majadahonda;1963;At. Madrid B
+ Bilbao Athletic;Lezama;1964;Ath. Bilbao B
+ Union Deportiva Logrones;Logrono;1967;Logrones (U.D.)
+" Futbol Club Barcelona ""B""";Barcelona;1970;Barcelona B
+ Agrupacion Deportiva Alcorcon;Alcorcon;1971;Alcorcon
+ Montilla Club de Futbol;Montilla;1973;Montilla
+ Club de Futbol Rayo Majadahonda;Majadahonda;1976;Rayo Majadahonda
+ Alboraya Union Deportiva;Alboraya;1978;Alboraya
+ Getafe Club de Futbol;Getafe;1983;Getafe
+" Getafe Club de Futbol ""B""";Getafe;1983;Getafe B
+ Real Burgos Club de Futbol;Burgos;1983;Burgos (Real)
+ Union Deportiva Almeria;Almeria;1989;Almeria
+ Burgos Club de Futbol;Burgos;1994;Burgos (C.F.)
+ Futbol Club Cartagena;Cartagena;1995;Cartagena
+ Sestao River Club;Sestao;1996;Sestao River
+" Agrupacion Deportiva Alcorcon ""B""";Alcorcon;1998;Alcorcon B
+ UCAM Murcia Club de Futbol;Murcia;1999;UCAM Murcia
+ Sociedad Deportiva Compostela;Santiago de Compostela;2004;Compos
+ Extremadura Union Deportiva;Almendralejo;2007;Extremadura (U.D.)
+ Sociedad Deportiva Logrones;Logrono;2009;Logrones (S.D.)
+ Tarrasa Olimpica 2010;Tarrasa;2009;Tarrasa Olimpica
+ Club Lleida Esportiu;Lerida;2011;Lleida Espiritu
+ Club Deportivo Badajoz;Badajoz;2012;Badajoz (C.D.)
+ Xerez Deportivo Futbol Club;Jerez de la Frontera;2013;Xerez (F.C.)
+ Unionistas de Salamanca Club de Futbol;Salamanca;2013;Unionistas
+ Merida Asociacion Deportiva;Merida;2013;Merida (A.D.)
+ Exiles Foot-Ball Club;Vigo;1876;Exiles
+ Rio Tinto Foot-Ball Clubn 6;Huelva;1878;Rio Tinto
+ Cricket y Foot-Ball Club;Madrid;1879; Cricket y Foot-Ball Club
+ Malaga English Clubn 7;Malaga;1890; Malaga English Clubn 7
+ Athleta Club de Astilleros del Nervion;Bilbao;1891; Athleta Club de Astilleros del Nervion
+ Foot-Ball Club Barcelona;Barcelona;1893; Foot-Ball Club Barcelona
+ Gran Canary Foot-Ball Club;Las Palmas;1894; Gran Canary Foot-Ball Club
+ Las Palmas Foot-Ball Club;Puerto de Las Palmas;1894; Las Palmas Foot-Ball Club
+ Asociacion de Football de Torello;Barcelona;1894; Asociacion de Football de Torello
+ Veloz Sport Balear;Palma de Mallorca;1896; Veloz Sport Balear
+ Sociedad de Juegos al Aire Libre;Madrid;1897; Sociedad de Juegos al Aire Libre
+ New Foot-Ball Club;Madrid;1897; New Foot-Ball Club
+ Association Sportive Amicale;Madrid;1897; Association Sportive Amicale
+ Palamos Club de Futbol;Palamos;1898; Palamos Club de Futbol
+ Català Sport Club;Barcelona;1899; Català Sport Club
+ Hispania Athletic Club;Barcelona;1900; Hispania Athletic Club
+ Bilbao Foot-Ball Club;Bilbao;1900; Bilbao Foot-Ball Club
+ Club Espanol de Madrid *;Madrid;1901; Club Espanol de Madrid *
+ Moncloa Foot-Ball Club;Madrid;1902; Moncloa Foot-Ball Club
+ Retiro Foot-Ball Club;Madrid;1902; Retiro Foot-Ball Club
+ Moderno Foot-Ball Club;Madrid;1902; Moderno Foot-Ball Club
+ Gijon Sport Club;Gijon;1902; Gijon Sport Club
+ Hispania Foot-Ball Club;Madrid;1902; Hispania Foot-Ball Club
+ Victoria Foot-Ball Club;Madrid;1902; Victoria Foot-Ball Club
+ Union Vizcaina;Bilbao;1902; Union Vizcaina
+ Universidad de Deusto Foot-Ball Club;Bilbao;1902; Universidad de Deusto Foot-Ball Club
+ Iberia Foot-Ball Club;Madrid;1903; Iberia Foot-Ball Club
+ Sport Foot-Ball Club;Madrid;1903; Sport Foot-Ball Club
+ Internacional Foot-Ball Club;Madrid;1903; Internacional Foot-Ball Club
+ Boston Foot-Ball Club;Madrid;1903; Boston Foot-Ball Club
+ Nacional Foot-Ball Club;Madrid;1903; Nacional Foot-Ball Club
+ Vizcaya Foot-Ball Clubn 8;Madrid;1903; Vizcaya Foot-Ball Clubn 8
+ Hispania Foot-Ball Club;Bilbao;1903; Hispania Foot-Ball Club
+ Malaga Foot-Ball Club;Malaga;1903; Malaga Foot-Ball Club
+ Club Foot-Ball Segoviano;Segovia;1903; Club Foot-Ball Segoviano
+ Asociacion Asturiana de Foot-Ball;Madrid;1903; Asociacion Asturiana de Foot-Ball
+ Zaragoza Foot-Ball Club;Zaragoza;1903; Zaragoza Foot-Ball Club
+ Oviedo Foot-Ball Club;Oviedo;1903; Oviedo Foot-Ball Club
+ Vigo Foot-Ball Club;Vigo;1903; Vigo Foot-Ball Club
+ Real Club Coruna;La Coruna;1904; Real Club Coruna
+ Juventud Deportiva Gijonesa;Gijon;1904; Juventud Deportiva Gijonesa
+ Sport Club Avilesino;Aviles;1904; Sport Club Avilesino
+ Sporting Club Lucentino;Alicante;1904; Sporting Club Lucentino
+ San Sebastian Recreation Club;San Sebastian;1904; San Sebastian Recreation Club
+ Club Gimnastico;Las Palmas;1904; Club Gimnastico
+ Club Deportivo Gran Canaria;Las Palmas;1904; Club Deportivo Gran Canaria
+ Club Deportivo Badajoz;Badajoz;1905;Badajoz
+ New Sporting Club;Madrid;1905; New Sporting Club
+ Real Club Fortuna de Vigo;Vigo;1905; Real Club Fortuna de Vigo
+ Foot-Ball Club Valencia;Valencia;1905; Foot-Ball Club Valencia
+ Iris Foot-Ball Club;Madrid;1906; Iris Foot-Ball Club
+ Club Sportivo Internacional;Madrid;1906; Club Sportivo Internacional
+ Espanol Foot-Ball Club;Madrid;1906; Espanol Foot-Ball Club 
+ Tarrasa Futbol Club;Tarrasa;1906;Terrasa
+ Real Sociedad Gimnastica Espanola;Madrid;1907; Real Sociedad Gimnastica Espanola
+ Xerez Futbol Club;Jerez;1907; Xerez Futbol Club
+ San Sebastian Foot-Ball Club;San Sebastian;1908; San Sebastian Foot-Ball Club
+ Alicante Recreation Club;Alicante;1908; Alicante Recreation Club
+ Gimnastico Foot-Ball Club;Valencia;1909; Gimnastico Foot-Ball Club
+ Foot-Ball Club Cabanal;Valencia;1907; Foot-Ball Club Cabanal
+ Espanol Foot-Ball Club;Cadiz;1911; Espanol Foot-Ball Club
+ Sporting Club;Vigo;1911; Sporting Club
+ Real Vigo Sporting Club;Vigo;1911; Real Vigo Sporting Club
+ Foot-Ball Club Malagueno;Malaga;1912; Foot-Ball Club Malagueno
+ Club Deportivo Norte;Tenerife;1912; Club Deportivo Norte
+ Union Sporting Club;Madrid;1913; Union Sporting Club
+ Club Nuevo Fomento Oriental;Las Palmas;1913; Club Nuevo Fomento Oriental
+ Racing Club de Madrid;Madrid;1914; Racing Club de Madrid
+ Sestao Sport Club;Sestao;1916;Sestao
+ Iberia Sport Club;Zaragoza;1916;Iberia
+ Alicante Club de Futbol;Alicante;1918;Alicante
+ Agrupacion Deportiva Ferroviaria;Madrid;1918;A.D. Ferroviaria
+ Club Polideportivo Merida;Merida;1921;Merida
+ Club Deportivo Logrono;Logrono;1922;Logrono
+ Burgos Club de Futbol;Burgos;1922;Burgos
+ Imperio Club de Futbol;Madrid;1923;Imperio
+ Union Deportiva Salamanca;Salamanca;1923;Salamanca
+ Club de Futbol Villarreal de Educacion y Descanso;Villarreal;1923;Villarreal E y D
+ Club Deportivo Nacional de Madrid;Madrid;1924;Nacional de Madrid
+ Club de Futbol Extremadura;Almendralejo;1924;Extremadura
+ Getafe Foot-Ball Club;Getafe;1924; Getafe Foot-Ball Club
+ Zaragoza Club Deportivo;Zaragoza;1925; Zaragoza Club Deportivo
+ Compostela Club de Futbol;Santiago;1928; Compostela Club de Futbol
+ Real Club Deportivo Cordoba;Cordoba;1929; Real Club Deportivo Cordoba
+ Castilla Foot-Ball Club;Madrid;1931; Castilla Foot-Ball Club
+ Club Deportivo Malaga;Malaga;1933; Club Deportivo Malaga
+ Club Deportivo Condal;Barcelona;1934; Club Deportivo Condal
+ Unio Esportiva Lleida;Lerida;1939;Lleida
+ Club Deportivo Logrones;Logrono;1940;Logrones
+ Club Deportivo Juvenil;La Coruna;1940; Club Deportivo Juvenil
+ Eibar Foot-Ball Club;eibar;1940; Eibar Foot-Ball Club
+ Club Getafe Deportivo;Getafe;1946; Club Getafe Deportivo
+ Club Deportivo Ourense;Orense;1952;Ourense
+" Real Madrid Club de Futbol ""C""";Madrid;1952;Madrid C
+ Sociedad Deportiva Compostela;Santiago;1962;Compostela
+" Futbol Club Barcelona ""C""";Barcelona;1967;Barcelona C
+ Club Polideportivo Ejido;El Ejido;1969;Ejido
+ Agrupacion Deportiva Almeria;Almeria;1971;Almeria (A.D.)
+ Merida Union Deportiva;Merida;1990;Merida
+ Lorca Atletico Club de Futbol;Lorca;1996;Lorca
+ Granada 74 Club de Futbol;Motril;1999;Granada 74
+ Real Stadium Club Ovetense;Oviedo;1914; Real Stadium Club Ovetense
+ Real Club Deportivo Oviedo;Oviedo;1919; Real Club Deportivo Oviedo
+ Club Deportivo Espanol;Valladolid;1924; Club Deportivo Espanol
+ Real Union Deportiva;Valladolid;1924; Real Union Deportiva
