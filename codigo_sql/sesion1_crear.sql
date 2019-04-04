@@ -10,7 +10,7 @@ CREATE TABLE Equipo (
 CREATE TABLE Estadio (
     Nom_estadio         VARCHAR(50) CONSTRAINT PK_Estadio PRIMARY KEY,
     Capacidad           NUMBER(6)   CONSTRAINT NN_capacidad NOT NULL,
-    Inaguracion         NUMBER(4)   CONSTRAINT NN_inagur NOT NULL,
+    Inaguracion         NUMBER(4),
     Comunidad           VARCHAR(50) CONSTRAINT NN_Comun  NOT NULL 
 );
 
