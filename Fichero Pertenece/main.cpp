@@ -10,10 +10,10 @@ void ponerPuntos(Equipo &equipo_loc, Equipo &equipo_visit,int golLoc, int golVis
             equipo_loc.puntos[jornada-1] = equipo_loc.puntos[jornada-2] + 3;
         }
         else if(golLoc < golVis){
-             equipo_visit.puntos[jornada-1] = equipo_loc.puntos[jornada-2] + 3;
+             equipo_visit.puntos[jornada-1] = equipo_visit.puntos[jornada-2] + 3;
         }   
         else{
-             equipo_visit.puntos[jornada-1] = equipo_loc.puntos[jornada-2] + 1;
+             equipo_visit.puntos[jornada-1] = equipo_visit.puntos[jornada-2] + 1;
              equipo_loc.puntos[jornada-1] = equipo_loc.puntos[jornada-2] + 1;
         }
     }else{
@@ -76,8 +76,8 @@ void europa(Equipo &equipo, int jornadas, char liga[]){
 }
 
 int main(){
-    ifstream f(LigaHost_Bueno.csv);
-    ofstream g(Pernetece.csv);
+    ifstream f("LigaHost.csv");
+    ofstream g("Pernetece.csv");
     f.ignore(500,'\n');
     int i,j = 0;
     int max_eq;
@@ -103,7 +103,7 @@ int main(){
                 f.getline(nombreVisitante,100,DELIM);
                 f >> golLoc;
                 f >> golVis;
-                posicionEquipo(equipo,nombreLocal,i,max_eq);
+                posicionEquipo(equipo,nombreLocal,i,max_eq); //Modifica i con el indice del equipo en el vector de equipos.
                 posicionEquipo(equipo,nombreVisitante,j,max_eq);
                 ponerPuntos(equipo[i], equipo[j], golLoc, golVis, jornadaAct);
                 f >> temporadaSig;
@@ -111,7 +111,6 @@ int main(){
                 f >> jornadaSig;
                 sigo_temporada_liga = jornadaMax(jornadaSig,jornadaAct,jorMax);
             }
-
     }
 
 }
