@@ -174,7 +174,7 @@ INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Internacion
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Boston Foot-Ball Club','Madrid','1903','Boston Foot-Ball Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Nacional Foot-Ball Club','Madrid','1903','Nacional Foot-Ball Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Vizcaya Foot-Ball Clubn 8','Madrid','1903','Vizcaya Foot-Ball Clubn 8');
-INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Hispania Foot-Ball Club','Bilbao','1903','Hispania Foot-Ball Club');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Hispania Foot-Ball Club','Bilbao','1903','Hispania Foot-Ball Club Biln');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Malaga Foot-Ball Club','Malaga','1903','Malaga Foot-Ball Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Club Foot-Ball Segoviano','Segovia','1903','Club Foot-Ball Segoviano');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Asociacion Asturiana de Foot-Ball','Madrid','1903','Asociacion Asturiana de Foot-Ball');
@@ -202,7 +202,7 @@ INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('San Sebasti
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Alicante Recreation Club','Alicante','1908','Alicante Recreation Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Gimnastico Foot-Ball Club','Valencia','1909','Gimnastico Foot-Ball Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Foot-Ball Club Cabanal','Valencia','1907','Foot-Ball Club Cabanal');
-INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Espanol Foot-Ball Club','Cadiz','1911','Espanol Foot-Ball Club');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Espanol Foot-Ball Club','Cadiz','1911','Espanol Foot-Ball Club Cad');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Sporting Club','Vigo','1911','Sporting Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Real Vigo Sporting Club','Vigo','1911','Real Vigo Sporting Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Foot-Ball Club Malagueno','Malaga','1912','Foot-Ball Club Malagueno');
@@ -240,7 +240,7 @@ INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Sociedad De
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Futbol Club Barcelona C','Barcelona','1967','Barcelona C');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Club Polideportivo Ejido','El Ejido','1969','Ejido');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Agrupacion Deportiva Almeria','Almeria','1971','Almeria (A.D.)');
-INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Merida Union Deportiva','Merida','1990','Merida');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Merida Union Deportiva','Merida','1990','Merida U.D');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Lorca Atletico Club de Futbol','Lorca','1996','Lorca');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Granada 74 Club de Futbol','Motril','1999','Granada 74');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Real Stadium Club Ovetense','Oviedo','1914','Real Stadium Club Ovetense');

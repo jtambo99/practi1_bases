@@ -48,7 +48,7 @@ INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Nou E
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('El Soto','Comunidad de Madrid','1974','14000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Camp d Esports','Cataluna','1919','13500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Reino de Leon','Castilla y Leon','2001','13451');
-INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Municipal de MontiliviA​','Cataluna','1970','13400');
+INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Municipal de Montilivi','Cataluna','1970','13400');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Juan Rojas','Andalucia','1976','13000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('San Lazaro','Galicia','1993','13000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('La Victoria','Andalucia','2001','12600');
@@ -177,7 +177,7 @@ INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Estad
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Merkatondoa','Navarra','1928','3500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Los Arcos','Comunidad Valenciana','1945','3500');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('As Eiroas','Galicia','2001','3500');
-INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Cerro del EspinoA​','Comunidad de Madrid','1995','3376');
+INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Cerro del Espino​','Comunidad de Madrid','1995','3376');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Guillermo Olagüe','Comunidad Valenciana','1967','3259');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('El Pilar','Cantabria','1922','3000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Pepe Ortiz','Principado de Asturias','1995','3000');
@@ -189,3 +189,4 @@ INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('La Es
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Municipal de Guijuelo','Castilla y Leon','1970','2000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Nuevo San Bartolome','Andalucia','1982','2000');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Vicente del Bosque','Castilla y Leon','2013','2000');
+INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Desconocido','Desconocido','0','0');
