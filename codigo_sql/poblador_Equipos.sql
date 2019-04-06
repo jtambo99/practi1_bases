@@ -195,7 +195,7 @@ INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Foot-Ball C
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Iris Foot-Ball Club','Madrid','1906','Iris Foot-Ball Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Club Sportivo Internacional','Madrid','1906','Club Sportivo Internacional');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Espanol Foot-Ball Club','Madrid','1906','Espanol Foot-Ball Club');
-INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Tarrasa Futbol Club','Tarrasa','1906','Terrasa');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Tarrasa Futbol Club','Tarrasa','1906','Terrassa');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Real Sociedad Gimnastica Espanola','Madrid','1907','Real Sociedad Gimnastica Espanola');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Xerez Futbol Club','Jerez','1907','Xerez Futbol Club');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('San Sebastian Foot-Ball Club','San Sebastian','1908','San Sebastian Foot-Ball Club');
@@ -246,3 +246,8 @@ INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Granada 74 
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Real Stadium Club Ovetense','Oviedo','1914','Real Stadium Club Ovetense');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Real Club Deportivo Oviedo','Oviedo','1919','Real Club Deportivo Oviedo');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Club Deportivo Espanol','Valladolid','1924','Club Deportivo Espanol');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Unio Esportiva Llagostera','Llagostera','1947','Llagostera');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Malaga Club De Futbol','Malaga','1994','Malaga');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Villarreal Club De Futbol B','Villarreal','1999','Villarreal B');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Club Atletico Malagueno','Malaga','1990','Malaga B');
+INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Union Deportiva Vecindario','Las Palmas','1962','Vecindario');

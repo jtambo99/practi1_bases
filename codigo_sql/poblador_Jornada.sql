@@ -3366,3 +3366,4 @@ INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('2016','2','20'
 INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('2016','2','21');
 INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('2016','2','22');
 INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('2016','2','23');
+INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('2016','2','24');

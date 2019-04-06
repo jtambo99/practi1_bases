@@ -129,7 +129,7 @@ INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Desconocido','New Sporting Cl
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Desconocido','Iris Foot-Ball Club');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Desconocido','Club Sportivo Internacional');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Desconocido','Espanol Foot-Ball Club');
-INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Olimpic de Terrassa','Terrasa');
+INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Olimpic de Terrassa','Terrassa');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Desconocido','Club Deportivo Norte');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Desconocido','Club Nuevo Fomento Oriental');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Romano','Merida');
