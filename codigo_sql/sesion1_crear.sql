@@ -1,4 +1,4 @@
-CREATE TABLE Equipo (
+CREATE TABLE Equipo ( /*Poblador Works*/
     Nom_equip           VARCHAR(50) CONSTRAINT PK_Equipo PRIMARY KEY,
     Nom_oficial         VARCHAR(50) CONSTRAINT NN_nomOf NOT NULL,
     Nom_historico       VARCHAR(50),
@@ -7,18 +7,18 @@ CREATE TABLE Equipo (
     Fundacion           NUMBER(4)   CONSTRAINT NN_fund NOT NULL
 );
 
-CREATE TABLE Estadio (
+CREATE TABLE Estadio ( /*Poblador Works*/
     Nom_estadio         VARCHAR(50) CONSTRAINT PK_Estadio PRIMARY KEY,
     Capacidad           NUMBER(6)   CONSTRAINT NN_capacidad NOT NULL,
     Inaguracion         NUMBER(4),
     Comunidad           VARCHAR(50) CONSTRAINT NN_Comun  NOT NULL 
 );
 
-CREATE TABLE Liga (
+CREATE TABLE Liga ( /*Poblador Works*/
     Nom_liga            VARCHAR(20) CONSTRAINT PK_Liga PRIMARY KEY
 );
 
-CREATE TABLE Tener (
+CREATE TABLE Tener ( /*Poblador Works*/
     Nom_equip           VARCHAR(50),
     Nom_estadio         VARCHAR(50),
     CONSTRAINT PK_Tener PRIMARY KEY (Nom_equip,Nom_estadio),
@@ -28,7 +28,7 @@ CREATE TABLE Tener (
                                                     ON DELETE CASCADE                                
 );
 
-CREATE TABLE Temporada (
+CREATE TABLE Temporada ( /*Poblador Works*/
     Num_temporada       VARCHAR(12),
     Nom_liga            VARCHAR(20),
     CONSTRAINT PK_temporada PRIMARY KEY (Num_temporada,Nom_liga),
@@ -36,7 +36,7 @@ CREATE TABLE Temporada (
                                                     ON DELETE CASCADE
 );
 
-CREATE TABLE Jornada (
+CREATE TABLE Jornada ( /*Poblador Works*/
     Num_jornada         NUMBER(2),
     Num_temporada       VARCHAR(12),
     Nom_liga            VARCHAR(20),
