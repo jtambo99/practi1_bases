@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 CREATE TABLE Equipo ( /*Poblador Works*/
     Nom_equip           VARCHAR(50) CONSTRAINT PK_Equipo PRIMARY KEY,
     Nom_oficial         VARCHAR(50) CONSTRAINT NN_nomOf NOT NULL,

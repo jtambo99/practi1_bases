@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('1973','1','1');
 INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('1973','1','2');
 INSERT INTO Jornada (Num_temporada,Nom_liga,Num_jornada) VALUES ('1973','1','3');

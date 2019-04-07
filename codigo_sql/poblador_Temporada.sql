@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Temporada (Num_temporada,Nom_liga) VALUES ('1973','1');
 INSERT INTO Temporada (Num_temporada,Nom_liga) VALUES ('1973','2');
 INSERT INTO Temporada (Num_temporada,Nom_liga) VALUES ('1974','1');

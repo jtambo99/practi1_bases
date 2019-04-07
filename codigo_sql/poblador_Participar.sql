@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Participar (Num_temporada, Nom_liga, Num_jornada, Nom_equip, Puntos) VALUES ('2004','1','1','Albacete','0');
 INSERT INTO Participar (Num_temporada, Nom_liga, Num_jornada, Nom_equip, Puntos) VALUES ('2004','1','1','Osasuna','3');
 INSERT INTO Participar (Num_temporada, Nom_liga, Num_jornada, Nom_equip, Puntos) VALUES ('2004','1','1','Sevilla','3');

@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 DROP VIEW año2004;
 DROP VIEW año2005;
 DROP VIEW año2006;

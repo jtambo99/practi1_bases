@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 DROP TABLE Partido;
 
 DROP TABLE Participar;

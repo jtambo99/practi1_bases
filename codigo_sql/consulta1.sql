@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 CREATE VIEW año2004 AS
 SELECT Nom_equip,Puntos,Num_jornada,Num_temporada
 FROM Participar

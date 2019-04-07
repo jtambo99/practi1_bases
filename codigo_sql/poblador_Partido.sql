@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Partido (Num_temporada,Nom_liga,Num_jornada,Nom_eqloc,Nom_eqvis,Gol_local,Gol_visitante) VALUES ('2004','1','1','Albacete','Osasuna','0','2');
 INSERT INTO Partido (Num_temporada,Nom_liga,Num_jornada,Nom_eqloc,Nom_eqvis,Gol_local,Gol_visitante) VALUES ('2004','1','1','Sevilla','At. Madrid','1','0');
 INSERT INTO Partido (Num_temporada,Nom_liga,Num_jornada,Nom_eqloc,Nom_eqvis,Gol_local,Gol_visitante) VALUES ('2004','1','1','Ath. Bilbao','Barcelona','0','1');

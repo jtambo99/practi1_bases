@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Real Club Recreativo de Huelva','Huelva','1889','Rec. Huelva');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Sevilla Futbol Club','Sevilla','1890','Sevilla');
 INSERT INTO Equipo (Nom_oficial,Ciudad,Fundacion,Nom_equip) VALUES ('Athletic Club','Bilbao','1898','Ath. Bilbao');

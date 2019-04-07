@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Camp Nou','Cataluna','1957','99354');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Santiago Bernabeu','Comunidad de Madrid','1947','81044');
 INSERT INTO Estadio (Nom_estadio,Comunidad,Inaguracion,Capacidad) VALUES ('Metropolitano','Comunidad de Madrid','2017','67703');

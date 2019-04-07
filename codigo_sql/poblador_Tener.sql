@@ -1,3 +1,4 @@
+/*Juan José Tambo, Jesús Villacampa, Fernando Navarro*/
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Nuevo Colombino','Rec. Huelva');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('Ramon Sanchez Pizjuan','Sevilla');
 INSERT INTO Tener (Nom_Estadio,Nom_equip) VALUES ('San Mames','Ath. Bilbao');
