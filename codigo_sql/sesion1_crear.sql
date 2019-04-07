@@ -50,10 +50,10 @@ CREATE TABLE Participar (
     Num_jornada         NUMBER(2),
     Num_temporada       VARCHAR(12),
     Nom_liga            VARCHAR(20),
-    Europa              NUMBER(1) CONSTRAINT NN_europ   NOT NULL,
+    Europa              NUMBER(1),
     Puntos              NUMBER(3) CONSTRAINT NN_puntos  NOT NULL,
-    Puesto              NUMBER(2) CONSTRAINT NN_puesto  NOT NULL,
-    asc_desc            NUMBER(1) CONSTRAINT NN_asc_des NOT NULL,
+    Puesto              NUMBER(2),
+    asc_desc            NUMBER(1),
     CONSTRAINT PK_participar    PRIMARY KEY (Nom_equip,Num_jornada,Num_temporada,Nom_liga),
     CONSTRAINT FK_partEquip     FOREIGN KEY (Nom_equip)  REFERENCES Equipo(Nom_equip)
                                                     ON DELETE CASCADE,
