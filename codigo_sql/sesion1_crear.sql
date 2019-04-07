@@ -29,7 +29,7 @@ CREATE TABLE Tener ( /*Poblador Works*/
 );
 
 CREATE TABLE Temporada ( /*Poblador Works*/
-    Num_temporada       VARCHAR(12),
+    Num_temporada       NUMBER(4),
     Nom_liga            VARCHAR(20),
     CONSTRAINT PK_temporada PRIMARY KEY (Num_temporada,Nom_liga),
     CONSTRAINT FK_TempLig   FOREIGN KEY (Nom_liga) REFERENCES Liga(Nom_liga)
@@ -38,7 +38,7 @@ CREATE TABLE Temporada ( /*Poblador Works*/
 
 CREATE TABLE Jornada ( /*Poblador Works*/
     Num_jornada         NUMBER(2),
-    Num_temporada       VARCHAR(12),
+    Num_temporada       NUMBER(4),
     Nom_liga            VARCHAR(20),
     CONSTRAINT PK_jornada      PRIMARY KEY (Num_jornada,Num_temporada,Nom_liga),
     CONSTRAINT FK_JorTempLig   FOREIGN KEY (Num_temporada,Nom_liga) REFERENCES Temporada(Num_temporada,Nom_liga)
@@ -48,7 +48,7 @@ CREATE TABLE Jornada ( /*Poblador Works*/
 CREATE TABLE Participar (
     Nom_equip           VARCHAR(50),
     Num_jornada         NUMBER(2),
-    Num_temporada       VARCHAR(12),
+    Num_temporada       NUMBER(4),
     Nom_liga            VARCHAR(20),
     Europa              NUMBER(1),
     Puntos              NUMBER(3) CONSTRAINT NN_puntos  NOT NULL,
@@ -65,7 +65,7 @@ CREATE TABLE Partido (
     Nom_eqloc          VARCHAR(50),
     Nom_eqvis          VARCHAR(50),
     Num_jornada         NUMBER(2),
-    Num_temporada       VARCHAR(12),
+    Num_temporada       NUMBER(4),
     Nom_liga            VARCHAR(20),
     Gol_local           NUMBER(2) CONSTRAINT NN_local NOT NULL,
     Gol_visitante       NUMBER(2) CONSTRAINT NN_visit NOT NULL,
