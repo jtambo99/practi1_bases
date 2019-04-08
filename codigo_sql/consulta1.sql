@@ -60,15 +60,26 @@ SELECT Nom_equip,Puntos,Num_jornada,Num_temporada
 FROM Participar
 WHERE Num_jornada = '38'
 AND Num_temporada = '2015';
-SELECT Puntos,Nom_equip FROM año2004 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2004);
-SELECT Puntos,Nom_equip FROM año2005 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2005);
-SELECT Puntos,Nom_equip FROM año2006 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2006);
-SELECT Puntos,Nom_equip FROM año2007 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2007);
-SELECT Puntos,Nom_equip FROM año2008 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2008);
-SELECT Puntos,Nom_equip FROM año2009 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2009);
-SELECT Puntos,Nom_equip FROM año2010 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2010);
-SELECT Puntos,Nom_equip FROM año2011 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2011);
-SELECT Puntos,Nom_equip FROM año2012 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2012);
-SELECT Puntos,Nom_equip FROM año2013 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2013);
-SELECT Puntos,Nom_equip FROM año2014 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2014);
+SELECT Puntos,Nom_equip FROM año2004 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2004)
+UNION
+SELECT Puntos,Nom_equip FROM año2005 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2005)
+UNION
+SELECT Puntos,Nom_equip FROM año2006 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2006)
+UNION
+SELECT Puntos,Nom_equip FROM año2007 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2007)
+UNION
+SELECT Puntos,Nom_equip FROM año2008 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2008)
+UNION
+SELECT Puntos,Nom_equip FROM año2009 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2009)
+UNION
+SELECT Puntos,Nom_equip FROM año2010 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2010)
+UNION
+SELECT Puntos,Nom_equip FROM año2011 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2011)
+UNION
+SELECT Puntos,Nom_equip FROM año2012 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2012)
+UNION
+SELECT Puntos,Nom_equip FROM año2013 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2013)
+UNION
+SELECT Puntos,Nom_equip FROM año2014 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2014)
+UNION
 SELECT Puntos,Nom_equip FROM año2015 WHERE Puntos = (SELECT (MAX(Puntos)) FROM año2015);
